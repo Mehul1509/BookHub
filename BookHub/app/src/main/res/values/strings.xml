@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">dashboard</string>
+    <string name="favourites">favourites</string>
+    <string name="profile">profile</string>
+    <string name="about_app">about_app</string>
+    <string name="navigation_drawer">Navigation_drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard_fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="about_app_fragment">AboutApp Fragment</string>
+    <string name="name_mehul_gautam">Name: Mehul Gautam</string>
+    <string name="contact_no_9649164150">Contact No: 9649164150</string>
+    <string name="email_id_mhlgtm_gmail_com">Email-ID: mhlgtm@gmail.com</string>
+    <string name="Profile">Profile</string>
+    <string name="address_05_godavari_enclave_dadabari_kota_rajasthan">Address: 05, Godavari Enclave, Dadabari, Kota, Rajasthan</string>
+    <string name="add_to_favourites">add to favourites</string>
+</resources>
