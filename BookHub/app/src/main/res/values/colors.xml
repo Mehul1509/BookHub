@@ -6,4 +6,6 @@
     <color name="blackColor">#000000</color>
     <color name="maroonColor">#900C3F</color>
     <color name="darkMaroon">#581845</color>
+    <color name="colorFavourite">#311b92</color>
+
 </resources>

@@ -5,13 +5,61 @@
     android:layout_height="match_parent"
     tools:context=".fragments.AboutAppFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+
     <TextView
-        android:id="@+id/txtAboutApp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/about_app_fragment"
+        android:text="About the App"
+        android:textColor="@color/darkMaroon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:id="@+id/txtAboutApp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Basic Book App using internet. "
+        android:layout_marginTop="50dp"
         android:textSize="20sp"
-        android:padding="10dp"/>
+        android:layout_below="@+id/txtAboutApp"
+        android:layout_marginLeft="50dp"
+        android:id="@+id/txtBasic"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Books to Favourites "
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/txtBasic"
+        android:layout_marginLeft="50dp"
+        android:id="@+id/txtaddfav"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sort the books according to the rating"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/txtaddfav"
+        android:layout_marginLeft="50dp"
+       android:id="@+id/txtSort" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-App By Mehul Gautam "
+        android:layout_marginTop="100dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/txtSort"
+        android:layout_marginLeft="50dp"
+        />
+
+
 
 </RelativeLayout>

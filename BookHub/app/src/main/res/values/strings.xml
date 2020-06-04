@@ -14,10 +14,11 @@
     <string name="favourites_fragment">Favourites Fragment</string>
     <string name="profile_fragment">Profile fragment</string>
     <string name="about_app_fragment">AboutApp Fragment</string>
-    <string name="name_mehul_gautam">Name: Mehul Gautam</string>
-    <string name="contact_no_9649164150">Contact No: 9649164150</string>
-    <string name="email_id_mhlgtm_gmail_com">Email-ID: mhlgtm@gmail.com</string>
     <string name="Profile">Profile</string>
-    <string name="address_05_godavari_enclave_dadabari_kota_rajasthan">Address: 05, Godavari Enclave, Dadabari, Kota, Rajasthan</string>
     <string name="add_to_favourites">add to favourites</string>
+    <string name="action_sort">action_sort</string>
+    <string name="contact_no_1234567890">Contact No. : 1234567890</string>
+    <string name="email_id_mafiya_gmail_com">Email Id: mafiya.gmail.com</string>
+    <string name="name_Elizabeth">Name: Elizabeth</string>
+    <string name="address_abc123_mumbai">Address: ABC123,Mumbai</string>
 </resources>
